@@ -1,6 +1,6 @@
-# CloudSQL module with instances, databases and users
+# CloudSQL module with instances, databases, and users
 
-Opinionated terraform module to setup CloudSQL in GCP, containing an instance with databases, and users.
+Opinionated terraform module to set up CloudSQL in GCP, containing an instance with databases, and users.
 
 ## Intputs
 
